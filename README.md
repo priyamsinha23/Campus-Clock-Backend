@@ -30,4 +30,4 @@ It powers the system with secure APIs for user authentication, attendance manage
 </ul>
 
 ## 🔗 Related Repos
-- [Frontend Repository](https://github.com/PratikKumarSingh2503/CampusClock-frontend)
+- [Frontend Repository](https://github.com/priyamsinha23/Campus-Clock-Front-End)
